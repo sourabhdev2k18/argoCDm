@@ -92,7 +92,7 @@ height: 45px !important;
   top: 10vh !important;
 }
 .login__text::before {
-  content: "IS DevOps Platform";
+  content: "iDevOps Platform";
   margin : auto;
   visibility: visible;
   display: block;
